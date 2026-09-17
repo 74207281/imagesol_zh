@@ -42,7 +42,8 @@
     <li><a href="/breeders/phenotyping/">外表型調查 (Phenotyping)</a></li>
     <!-- li><a href="/barcode">Barcodes</a></li -->
     <li><a href="/tools/label_designer">設計標籤 (Label Designer)</a></li>
-    <li><a href="/breeders/nirs">NIRS Spectroscopy</a></li>
+    <!-- <li><a href="/breeders/nirs">NIRS Spectroscopy</a></li> -->
+    <li><a href="/breeders/nirs">近紅外光譜 (NIRS Spectroscopy)</a></li>
     <li><a href="/breeders/download">下載 (Download)</a></li>
     <li><a href="/breeders/upload">上傳 (Upload)</a></li>
     <!-- li><a href="/breeders/odk">ODK Data Collection</a></li -->
