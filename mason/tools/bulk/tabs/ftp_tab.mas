@@ -1,14 +1,14 @@
 
-    <h3 style="margin-bottom: 0.3em">Cassavabase FTP site</h3>
-	<div style="margin: 0 1em 0 1em">Download complete datasets.</div><br />
+    <h3 style="margin-bottom: 0.3em">Cassavabase FTP 站點</h3>
+	<div style="margin: 0 1em 0 1em">下載完整資料集。</div><br />
 
     <div style="margin: 0; padding: 1em; border: 1px solid #ccccff">
-	<a class="folderlink" href="ftp://ftp.cassavabase.org">ftp top level</a>
+	<a class="folderlink" href="ftp://ftp.cassavabase.org">FTP 頂層目錄 (ftp top level)</a>
 	
 	<dl style="margin: 1em 0 0 0; list-style: none">
-	  <dt><a href="ftp://ftp.cassavabase.org/maps"><b>Maps</b></a></dt>
-	  <dd>Cassava map data</dd>
-	  <dt><a href="ftp://ftp.cassavabase.org/annotation"><b>Annotation</b></a></dt>
-	  <dd>Chromosomes, genes, and protein files, in fasta and gff3.</dd>
+	  <dt><a href="ftp://ftp.cassavabase.org/maps"><b>圖譜資料 (Maps)</b></a></dt>
+	  <dd>木薯圖譜資料</dd>
+	  <dt><a href="ftp://ftp.cassavabase.org/annotation"><b>註解資料 (Annotation)</b></a></dt>
+	  <dd>染色體、基因與蛋白質檔案（FASTA 與 GFF3 格式）。</dd>
 
 	  </dl>
