@@ -8,9 +8,9 @@
     <li><a href="/selection/index">選拔指數 (Selection Index)</a></li>
     <li><a href="/noaa_ncdc_analysis">NOAA 氣象 (NOAA Weather)</a></li>
 
-    <!--li><a href="/solgs/search">Genomic Selection</a></li>
-    <li><a href="/pca/analysis">Population Structure</a></li>
-    <li><a href="/cluster/analysis">Clustering</a></li-->
+    <!--li><a href="/solgs/search">基因組選拔 (Genomic Selection)</a></li>
+    <li><a href="/pca/analysis">族群結構 (Population Structure)</a></li>
+    <li><a href="/cluster/analysis">分群分析 (Clustering)</a></li-->
 
     <li><a href="/accession_usage">品系使用狀況 (Accession Usage)</a></li>
     <li><a href="/tools/graphicalfiltering">圖形化篩選 (Graphical Filtering)</a></li>
@@ -18,13 +18,13 @@
     <li><a href="/tools/trial/comparison/list">試驗比較 (Compare Trials)</a></li>
     <li><a href="/tools/boxplotter">盒鬚圖工具 (BoxPlotter Tool)</a></li>
 
-    <!--li><a href="/tools/stability">Stability AMMI and GGE</a></li-->
-    <!--li><a href="/tools/heritability">Heritability</a></li-->
+    <!--li><a href="/tools/stability">穩定性分析 AMMI 與 GGE (Stability AMMI and GGE)</a></li-->
+    <!--li><a href="/tools/heritability">遺傳率 (Heritability)</a></li-->
 
     <li><a href="/tools/image_analysis">影像分析 (Image Analysis)</a></li>
 
     <!--li role="separator" class="divider"></li>
-    <li class="dropdown-header">Sequence Analysis</li>
+    <li class="dropdown-header">序列分析 (Sequence Analysis)</li>
     <li><a href="/tools/blast/">BLAST</a></li-->
 
     <li role="separator" class="divider"></li>
