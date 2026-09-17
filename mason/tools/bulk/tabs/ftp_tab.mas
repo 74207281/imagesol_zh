@@ -7,7 +7,7 @@
 	
 	<dl style="margin: 1em 0 0 0; list-style: none">
 	  <dt><a href="ftp://ftp.cassavabase.org/maps"><b>圖譜資料 (Maps)</b></a></dt>
-	  <dd>木薯圖譜資料</dd>
+	  <dd>木薯圖譜資料。</dd>
 	  <dt><a href="ftp://ftp.cassavabase.org/annotation"><b>註解資料 (Annotation)</b></a></dt>
 	  <dd>染色體、基因與蛋白質檔案（FASTA 與 GFF3 格式）。</dd>
 
