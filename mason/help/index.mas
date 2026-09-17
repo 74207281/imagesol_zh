@@ -1,6 +1,6 @@
 
-<& /page/page_title.mas, title=>"ImageBreed Help" &>
+<& /page/page_title.mas, title=>"ImageBreed 說明 (Help)" &>
 
-<div>ImageBreed is a tool for managing, extracting, and analyzing aerial imaging events for plant breeding.</div>
+<div>ImageBreed 是一套專為植物育種設計的工具，用於管理、擷取與分析空拍影像活動。</div>
 
-<h3>Manual</h3>
+<h3>使用手冊 (Manual)</h3>
