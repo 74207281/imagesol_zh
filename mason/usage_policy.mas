@@ -1,39 +1,39 @@
 
-<& /page/page_title.mas, title=>'Data Usage Policy' &>
+<& /page/page_title.mas, title=>'資料使用政策 (Data Usage Policy)' &>
 
-The data on this database is shared according to the Toronto agreement (see below). 
+本資料庫中的資料乃依據多倫多協定（Toronto Agreement，詳見下方）進行共享。
 
-In addition, each trial may have its own restrictions, please check the relevenat section on each trial detail page.
+此外，各個試驗可能具備各自的使用限制，請參閱各試驗詳細資訊頁面的相關章節說明。
 
-<h3>Toronto Agreement</h3>
+<h3>多倫多協定 (Toronto Agreement)</h3>
 
 <ul>
-<li>Explicitly informing applicants of data-release requirements, especially mandatory prepublication data release</li>
-<li>Ensuring that evaluation of data release plans is part of the peer-review process</li>
-<li>Proactively establishing analysis plans and timelines for projects releasing data prepublication</li>
-<li>Fostering investigator-initiated prepublication data release</li>
-<li>Helping to develop appropriate consent, security, access and governance mechanisms that protect research participants while encouraging prepublication data release</li>
-<li>Providing long-term support of databases</li>
+<li>明確告知申請者資料發布要求，特別是出版前強制公開資料的要求</li>
+<li>確保資料發布計畫的評估納如同儕審查流程的一環</li>
+<li>主動為於出版前發布資料的計畫建立分析規劃與時程表</li>
+<li>鼓勵研究主持人在發表前主動公開資料</li>
+<li>協助制定合適的知情同意、安全性、存取權限與治理機制，在保障研究參與者的同時鼓勵發表前之資料發布</li>
+<li>為資料庫提供長期支援</li>
 </ul>
 
-<h4>Data producers should state their intentions and enable analyses of their data by:</h4>
+<h4>資料產出者應表明其意向，並透過以下方式促進其資料的分析應用：</h4>
 
 <ul>
-<li>Informing data users about the data being generated, data standards and quality, planned analyses, timelines, and relevant contact information, ideally through publication of a citable marker paper near the start of the project or by provision of a citable URL at the project or funding-agency website</li>
-<li>Providing relevant metadata (e.g., questionnaires, phenotypes, environmental conditions, and laboratory methods) that will assist other researchers in reproducing and/or independently analysing the data, while protecting interests of individuals enrolled in studies focusing on humans</li>
-<li>Ensuring that research participants are informed that their data will be shared with other scientists in the research community</li>
-<li>Publishing their initial global analyses, as stated in the marker paper or citable URL, in a timely fashion</li>
-<li>Creating databases designed to archive all data (including underlying raw data) in an easily retrievable form and facilitate usage of both pre-processed and processed data</li>
+<li>向資料使用者說明正在產生的資料、資料標準與品質、預計進行的分析、時程表以及相關聯絡資訊，最好是在計畫初期發表具引用價值的標記論文（marker paper），或於計畫/資助機構網站上提供可引用的網址（URL）</li>
+<li>提供相關後設資料（例如問卷、表型、環境條件與實驗室方法），以協助其他研究人員重現和/或獨立分析資料，同時保障人類研究參與者的權益</li>
+<li>確保研究參與者知悉其資料將與研究社群中的其他科學家共享</li>
+<li>依據標記論文或可引用網址所述，及時發表其初步的整體性分析結果</li>
+<li>建立能以易於檢索的形式歸檔所有資料（包括底層原始資料）的資料庫，並促進預處理資料與處理後資料的使用</li>
 </ul>
 
-<h4>Data analysts/users should freely analyse released prepublication data and act responsibly in publishing analyses of those data by:</h4>
+<h4>資料分析者／使用者應自由分析已發布的出版前資料，並在發表該等資料的分析時秉持負責任的態度：</h4>
 
 <ul>
-<li>Respecting the scientific etiquette that allows data producers to publish the first global analyses of their data set</li>
-<li>Reading the citeable document associated with the project</li>
-<li>Accurately and completely citing the source of prepublication data, including the version of the data set (if appropriate)</li>
-<li>Being aware that released prepublication data may be associated with quality issues that will be later rectified by the data producers</li>
-<li>Contacting the data producers to discuss publication plans in the case of overlap between planned analyses</li>
-<li>Ensuring that use of data does not harm research participants and is in conformity with ethical approvals</li>
-<li>Scientific journal editors should engage the research community about issues related to prepublication data release and provide guidance to authors and reviewers on the third-party use of prepublication data in manuscripts</li>
+<li>尊重科學禮儀，讓資料產出者優先發表其資料集的首篇整體分析報告</li>
+<li>閱讀與該計畫相關的可引用文件</li>
+<li>準確且完整地引用出版前資料的來源，包括資料集的版本（若適用）</li>
+<li>知悉發布的出版前資料可能存在品質問題，資料產出者隨後將進行修正</li>
+<li>若預計進行的分析有所重疊，應主動聯絡資料產出者討論發表計畫</li>
+<li>確保資料之使用不會對研究參與者造成損害，且符合倫理審查許可</li>
+<li>科學期刊編輯應與研究社群就出版前資料發布相關議題保持溝通，並對作者與審稿人在論文手稿中使用第三方出版前資料提供指引</li>
 </ul>
