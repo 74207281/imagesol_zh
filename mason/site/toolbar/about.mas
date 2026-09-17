@@ -1,19 +1,20 @@
-<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">About</a>
+<!-- <li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">About</a> -->
+<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">關於</a>
 <!-- <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us<span class="caret"></span></a> -->
   <ul class="dropdown-menu">
 
-    <li><a href="https://www.youtube.com/channel/UC1FYqz6kz9pE72sSHhG7ocQ" >Video Tutorials</a></li>
-    <li><a href="https://nickmorales.github.io/imagebreed/" >Manual</a></li>
+    <li><a href="https://www.youtube.com/channel/UC1FYqz6kz9pE72sSHhG7ocQ" >教學影片 (Video Tutorials)</a></li>
+    <li><a href="https://nickmorales.github.io/imagebreed/" >使用手冊 (Manual)</a></li>
 
     <li role="separator" class="divider"></li>
 
-    <!--<li><a href="/contact/form">Contact</a></li>-->
-    <li><a href="/forum/topics.pl">Forum</a></li>
+    <!--<li><a href="/contact/form">聯絡我們 (Contact)</a></li>-->
+    <li><a href="/forum/topics.pl">討論區 (Forum)</a></li>
 
     <li role="separator" class="divider"></li>
 
-    <!--<li><a href="https://www.patreon.com/nmorales" >Support ImageBreed on Patreon</a></li>-->
-    <!--<li><a href="https://www.buymeacoffee.com/imagebreed" >Buy ImageBreed a Coffee</a></li>-->
+    <!--<li><a href="https://www.patreon.com/nmorales" >在 Patreon 上支持 ImageBreed</a></li>-->
+    <!--<li><a href="https://www.buymeacoffee.com/imagebreed" >贊助 ImageBreed 一杯咖啡</a></li>-->
 
   </ul>
 </li>

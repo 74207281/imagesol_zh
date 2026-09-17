@@ -1,4 +1,4 @@
-<& "/page/page_title.mas", title => "ImageBreed: Frequently Asked Questions (FAQ)" &>
+<& "/page/page_title.mas", title => "ImageBreed: 常見問題 (FAQ)" &>
 <table summary="" width="720" cellpadding="0" cellspacing="0"
   border="0">
     <tr>
@@ -8,26 +8,14 @@
           cellspacing="0" border="0">
             <tr>
               <td>
-                This page contains questions that ImageBreed users ask and
-                are useful to the larger community. Please
-                use the <a href="/contact/form">Contact Form</a> to send us questions.
+                本頁面收錄了 ImageBreed 使用者常提出的問題，供社群參考。若有其他疑問，請利用 <a href="/contact/form">聯絡表單</a> 向我們提出。
 
 
-                <p><strong>Question:</strong> The ImageBreed pages look really
-                messed up on my browser.<br />
-                <strong>Answer:</strong> You are working with an old browser
-                that does not support style sheets, such as the
-                browsers of the Netscape 4.x series. ImageBreed pages
-                require style sheets and javascript to be turned
-                on.</p>
+                <p><strong>問題：</strong>ImageBreed 網頁在我的瀏覽器上排版錯亂。<br />
+                <strong>回答：</strong>您可能正在使用不支援樣式表（CSS）的舊型瀏覽器（例如 Netscape 4.x 系列）。瀏覽 ImageBreed 網頁需要啟用樣式表與 JavaScript 功能。</p>
 
-                <p><strong>Question:</strong> Can I submit my data to
-                ImageBreed?<br />
-                <strong>Answer:</strong> Please send a message using the <a href="/contact/form">Contact Form</a>
-                with a description of the data you would like to
-                submit. We will then work with you to integrate
-                your data into the database and/or add it to the
-                FTP server.<br />
+                <p><strong>問題：</strong>我可以提交資料至 ImageBreed 嗎？<br />
+                <strong>回答：</strong>請透過 <a href="/contact/form">聯絡表單</a> 發送訊息，並附上您想提交之資料的詳細說明。我們將與您合作，協助將您的資料整合至資料庫或加入 FTP 伺服器中。<br />
                 </p>
 
               </td>

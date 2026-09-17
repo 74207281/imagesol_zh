@@ -7,7 +7,7 @@
     <!-- <li><a href="/breeders/drone_imagery">Aerial Imagery</a></li> -->
     <!-- <li><a href="/breeders/drone_rover">Ground Rover</a></li> -->
     <li><a href="/breeders/drone_imagery">空拍影像 (Aerial Imagery)</a></li>
-    <li><a href="/breeders/drone_rover">農機具 (Ground Rover)</a></li>
+    <li><a href="/breeders/drone_rover">地面探測車 (Ground Rover)</a></li>
     <li role="separator" class="divider"></li>
 
     <!-- <li><a href="/breeders/companies/">Companies</a></li>
@@ -26,7 +26,7 @@
     <li><a href="/fieldbook">Field Book App</a></li>
     <li><a href="/breeders/phenotyping/">Phenotyping</a></li> -->
     <li><a href="/breeders/companies/">組織 (Companies)</a></li>
-    <li><a href="/breeders/manage_roles/">使用者 (User Roles)</a></li>
+    <li><a href="/breeders/manage_roles/">使用者角色 (User Roles)</a></li>
     <li><a href="/breeders/manage_programs/">育種計畫 (Breeding Programs)</a></li>
     <li><a href="/breeders/locations">試驗場地 (Locations)</a></li>
     <li><a href="/breeders/accessions/">品系 (Accessions)</a></li>
@@ -36,19 +36,20 @@
     <li><a href="/breeders/genotyping/">基因型鑑定盤 (Genotyping Plates)</a></li>
     <li><a href="/breeders/genotyping/">基因型鑑定 (Genotyping (VCF, GRM, SSR))</a></li>
     <li><a href="/breeders/sequence_metadata/">基因體定序資料 (Genomic Sequence Metadata)</a></li>
-    <li><a href="/breeders/markers/">分子標記 (Marker Sets)</a></li>
-    <li><a href="/breeders/samples/">採樣 (Tissue Samples)</a></li>
+    <li><a href="/breeders/markers/">分子標記組 (Marker Sets)</a></li>
+    <li><a href="/breeders/samples/">組織樣本 (Tissue Samples)</a></li>
     <li><a href="/fieldbook">Field Book App</a></li>
     <li><a href="/breeders/phenotyping/">外表型調查 (Phenotyping)</a></li>
-    <!-- li><a href="/barcode">Barcodes</a></li -->
-    <li><a href="/tools/label_designer">設計標籤 (Label Designer)</a></li>
-    <li><a href="/breeders/nirs">NIRS Spectroscopy</a></li>
+    <!-- li><a href="/barcode">條碼 (Barcodes)</a></li -->
+    <li><a href="/tools/label_designer">標籤設計工具 (Label Designer)</a></li>
+    <!-- <li><a href="/breeders/nirs">NIRS Spectroscopy</a></li> -->
+    <li><a href="/breeders/nirs">近紅外光譜 (NIRS Spectroscopy)</a></li>
     <li><a href="/breeders/download">下載 (Download)</a></li>
     <li><a href="/breeders/upload">上傳 (Upload)</a></li>
-    <!-- li><a href="/breeders/odk">ODK Data Collection</a></li -->
-    <!-- <li><a href="/breeders/identifier_generation">Identifier Generation</a></li> -->
-    <!-- <li><a href="/breeders/file_share_dump">File Share</a></li> -->
+    <!-- li><a href="/breeders/odk">ODK 資料收集 (ODK Data Collection)</a></li -->
+    <!-- <li><a href="/breeders/identifier_generation">識別碼生成 (Identifier Generation)</a></li> -->
+    <!-- <li><a href="/breeders/file_share_dump">檔案分享 (File Share)</a></li> -->
     <!-- <li role="separator" class="divider"></li> -->
-    <!-- <li><a href="/order/stocks/view">Order Stocks</a></li> -->
+    <!-- <li><a href="/order/stocks/view">訂購種原 (Order Stocks)</a></li> -->
   </ul>
 </li>
